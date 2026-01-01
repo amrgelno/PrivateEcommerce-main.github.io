@@ -1,0 +1,33 @@
+.heroContainer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 2rem;
+    background: rgba(255, 255, 255, 0.15);
+    backdrop-filter: blur(20px);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    border-radius: 20px;
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    height: 70vh;
+    margin: 0 5rem;
+}
+.heroContainer img{
+    height: auto;
+    width: 100%;
+}
+.heroLeft, .heroRight{
+    width: calc(50% - 2rem);
+}
+.heroLeft{
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+.heroTitle{
+    font-size: 3rem;
+    font-weight: 600;
+}   
+.heroDesc{
+    font-size: 1.2rem;
+}

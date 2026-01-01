@@ -1,0 +1,17 @@
+.navLogo,.dropdown-btn{
+    font-family: "Poppins", sans-serif !important;
+}
+.dropdown-btn{
+    font-size: 1.2rem;
+    background: #6c757d;
+    padding: .5rem 1rem;
+    border-radius: .5rem;
+    cursor: pointer;
+}
+.dropdown-btn svg{
+    font-size: 1.5rem;
+}
+
+.langBtn{
+    cursor: pointer;
+}

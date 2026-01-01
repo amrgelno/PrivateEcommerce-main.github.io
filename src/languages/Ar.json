@@ -1,0 +1,24 @@
+{
+    "heroTitle":"التجارة الإلكترونية الخاصة أصبحت بسيطة",
+    "heroDesc":"أنشئ متجرًا لبائع واحد مع عربة تسوق مدمجة ومراسلة وإدارة سهلة للمنتج - جاهز للبيع على الهاتف المحمول والكمبيوتر اللوحي وسطح المكتب",
+    "heroTryBtn":"جرب بنفسك",
+    "aboutProject": "حول المشروع",
+    "programDescriptionTitle":"وصف البرنامج",
+    "programDescription":"احصل على التحكم الكامل في علامتك التجارية من خلال متجر البائع الفردي الذي يتميز بالاستجابة وسهولة الإدارة والمصمم لمنح عملائك تجربة تسوق سلسة",
+    "keyFeaturesTitle":"الميزات الرئيسية",
+    "keyFeatures":[
+        {"keyFeatureIcon":"MdOutlineDesignServices","IconLib": "md","keyFeatureTitle":":بسيط ومرن","keyFeatureDesc":"مُصمم لسهولة الاستخدام بواجهة استخدام سلسة وبديهية"},
+        {"keyFeatureIcon":"MdOutlineSecurity","IconLib": "md","keyFeatureTitle":":الأمان والرقابة","keyFeatureDesc":"حماية ومراقبة قوية لنظامك المالي"},
+        {"keyFeatureIcon":"HiOutlineRocketLaunch","IconLib": "hi2","keyFeatureTitle":":سريع ودقيق","keyFeatureDesc":"يوفر سرعة عالية وأداءً دقيقًا"},
+        {"keyFeatureIcon":"MdOutlineTranslate","IconLib": "md","keyFeatureTitle":":مترجم مواقع الويب","keyFeatureDesc":"اكسر حواجز اللغة مع مترجم مواقع الويب القوي لدينا"}
+       
+    ],
+    "Technos":[
+        {"TechnoTitle":"Native php","TechnoIcon":"DiPhp","IconLib": "di"},
+        {"TechnoTitle":"MySQL","TechnoIcon":"DiMysql","IconLib": "di"},
+        {"TechnoTitle":"Laravel","TechnoIcon":"FaLaravel","IconLib": "fa"},
+        {"TechnoTitle":"Vuejs","TechnoIcon":"FaVuejs","IconLib": "fa"}
+    ],
+    "allRight":"جميع الحقوق محفوظة"
+
+}
